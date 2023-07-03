@@ -1,0 +1,5 @@
+[flake8]
+exclude =
+      .git,
+      __pycashe__,
+      main.py
